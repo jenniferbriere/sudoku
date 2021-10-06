@@ -11,11 +11,11 @@ A valid solution for a 9x9 board is one in which:
 
 
 ** numpy is required - https://numpy.org/install/
-$ pip install numpy
+to install from command line run 'pip install numpy'
 
 
 ** run using python3:
-$ python3 sudoku.py
+from command line run 'python3 sudoku.py'
 
 
 ** the valid solution is included as a comment in the code
